@@ -1,0 +1,144 @@
+body{
+    margin:0;
+    font-family: 'Inter', sans-serif;
+    margin-top: 10%;
+    }
+   
+    .namecolor{
+        
+    color:#f80759 ;
+    font-family: 'Russo One', sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    }
+    section{
+        height: 500px;
+        padding-bottom: 600px;
+          
+    }
+    
+
+    h1:hover{
+
+        font-size: 100px;
+        color: #bc4e9c;
+    }
+
+    .header{
+        background-image: url(pic/header-bg.png);
+        background-repeat: no-repeat;
+        float: left;
+        
+        
+    }
+    .biography{
+        background-image: url(pic/biography-bg.png);
+        float:left;
+        background-repeat: no-repeat;
+        
+    }
+   
+        .small{
+            font-size: 70px;
+            font-weight: 400;
+
+        }
+        .button{
+
+            background-image: linear-gradient(60deg,#bc4e9c,#f80759);
+            padding: 10px 20px;
+            text-decoration: none;
+            color:white;
+            font-weight: 700;
+            border-radius: 5px;
+
+        }
+        .halfwidth{
+            float: left;
+            width:40%;
+            margin-left: 5%;
+            padding-left: 2%;
+            
+        }
+        .halfwidth img{
+            width: 100%
+        }
+
+
+
+
+
+    .latest{
+            background-image: url(pic/latest-work-bg.png);
+            background-repeat: no-repeat;
+            float: left;
+        
+            }
+    
+            .my{
+                font-size: 70px;
+                font-weight: 400;
+                text-align: center;
+
+
+        }
+        .work{
+            width:25%;
+            float: left;
+            margin-left: 5%;
+            padding-left: 2%;
+        }
+        .work img{
+            width: 100%;
+        }
+    
+    
+   
+ 
+    
+    
+
+    .final{
+        background-image: url(pic/footer-bg.png);
+        text-align: center;
+        background-repeat: no-repeat;
+    
+        }
+
+    
+        .what{
+
+        font-size: 70px;
+        font-weight: 400;
+        font-family: 'Inter', sans-serif;
+        margin-bottom: 100px;
+        }
+        .client{
+            text-align: center;
+            word-wrap: normal;
+        
+            
+        }
+
+        
+        .infor{
+        
+        padding: 50px;
+        border-radius: 10px;
+        width: 630px;
+        height: 90px;
+        margin-left: 400px;
+        margin-top: 90px;
+        background-image: linear-gradient(60deg,#bc4e9c,#f80759);
+        color: white;
+        }
+    .gmail{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 300px;
+    }
+
+
+
